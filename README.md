@@ -8,7 +8,7 @@
  <img src="https://img.shields.io/badge/-Portfolio-%230077?style=flat&logo=firefox&logoColor=white"/></a>
 
 - 🔭 I’m currently working on a Cool Research Master Thesis on Analysis of RTL for Hardware Security 
-- 🌱 I’m currently learning Open Source Hardware for Security and Machine Learning
+- 🌱 I’m currently learning Open Source Hardware (RISC-V) for Security and Machine Learning
 - 👯 I’m looking to collaborate on Open Source Hardware...
 - 💬 Ask me about Anything esp. Embedded stuffs and PC games...
 - ⚡ Fun fact: The speed of a computer mouse is measured in "Mickeys."
