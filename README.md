@@ -13,6 +13,6 @@
 - 💬 Ask me about Anything esp. Embedded stuffs and PC games...
 - ⚡ Fun fact: The speed of a computer mouse is measured in "Mickeys."
 
-![Singa's github stats](https://github-readme-stats.vercel.app/api?username=SingaDK&show_icons=true)
+![Singa's github stats](img src="https://github-readme-stats.vercel.app/api?username=SingaDK&show_icons=true&theme=gotham" alt="SingaDK")
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SingaDK.SingaDK)
