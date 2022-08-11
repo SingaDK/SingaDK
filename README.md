@@ -10,8 +10,8 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SingaDK.SingaDK)
 
 - 🔭 I’m currently working as a Senior Firmware Dev at Cool and Secure Project involving ContactLess Chip Cards
-- 🌱 I’m currently learning Open Source Hardware (RISC-V) for Security and Machine Learning
-- 👯 I’m looking to collaborate on Open Source Hardware...
+- 🌱 I’m currently learning Firmware Principles for Embedded Security
+- 👯 I’m looking to collaborate on Open Source Hardware, Machine Learning...
 - 💬 Ask me about Anything esp. Embedded stuffs and PC games...
 - ⚡ Fun fact: The speed of a computer mouse is measured in "Mickeys."
 
